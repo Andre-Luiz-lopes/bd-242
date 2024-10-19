@@ -49,7 +49,7 @@
 </details>
 
 <details>
- Eu quero todos os pals
+ Detalhes.
 <Summary>
   •Avaliação 07 
   
