@@ -1,1 +1,1 @@
-<h2 align="center">•Avaliação 08🎮</h2></h2>
+<h2 align="center">•Atividade 08🎮</h2></h2>
