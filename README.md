@@ -1,6 +1,13 @@
 # bd-242
-GitHub referido a matéria de Banco de dados P4 informática.
+GitHub referente a matéria de Banco de dados P4 informática.
 
-<h2 align="center">André Luiz Lopes Furtado</h2></h2>
-![eu (1)](https://github.com/user-attachments/assets/289bde11-1e42-4eda-9010-4ca8088fa8ee)
+                                                                                                
+<div  align="center">
+  <h2>André Luiz Lopes Furtado</h2></h2>
+  
+  ![eu (1)](https://github.com/user-attachments/assets/12c2b3b6-21d6-4aaf-8799-0bd33b5b882d)
+  
+  https://github.com/Andre-Luiz-lopes
+</div>
+
 
