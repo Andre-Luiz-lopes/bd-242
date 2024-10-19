@@ -1,4 +1,4 @@
-<h2 align="center">•Lista das AVALIAÇÕES🏀</h2></h2>
+<h2 align="center">•Lista das ATIVIDADES🏀</h2></h2>
 
 <details>
   Detalhes.
