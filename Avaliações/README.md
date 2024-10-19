@@ -1,24 +1,82 @@
 <h2 align="center">•Lista das AVALIAÇÕES🏀</h2></h2>
 
-•Avaliação 01! 
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 01
+  
+</Summary>
+</details>
 
-•Avaliação 02! 
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 02
+  
+</Summary>
+</details>
 
-•Avaliação 03! 
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 03 
+  
+</Summary>
+</details>
 
-•Avaliação 04! 
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 04 
+  
+</Summary>
+</details>
 
-•Avaliação 05!
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 05 
+  
+</Summary>
+</details>
 
-•Avaliação 06!
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 06 
+  
+</Summary>
+</details>
 
-•Avaliação 07!
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 07 
+  
+</Summary>
+</details>
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 08
+  
+</Summary>
+</details>
 
-•Avaliação 08! 
-
-•Avaliação 09! 
-
-•Avaliação 10! 
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 09 
+  
+</Summary>
+</details>
+<details>
+  Detalhes.
+<Summary>
+  •Avaliação 10 
+  
+</Summary>
+</details>
 
 <br/>
 
