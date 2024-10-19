@@ -3,7 +3,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 01
+  •Atividade 01
   
 </Summary>
 </details>
@@ -11,7 +11,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 02
+  •Atividade 02
   
 </Summary>
 </details>
@@ -19,7 +19,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 03 
+  •Atividade 03 
   
 </Summary>
 </details>
@@ -27,7 +27,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 04 
+  •Atividade 04 
   
 </Summary>
 </details>
@@ -35,7 +35,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 05 
+  •Atividade 05 
   
 </Summary>
 </details>
@@ -43,7 +43,7 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 06 
+  •Atividade 06 
   
 </Summary>
 </details>
@@ -51,14 +51,14 @@
 <details>
  Detalhes.
 <Summary>
-  •Avaliação 07 
+  •Atividade 07 
   
 </Summary>
 </details>
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 08
+  •Atividade 08
   
 </Summary>
 </details>
@@ -66,14 +66,14 @@
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 09 
+  •Atividade 09 
   
 </Summary>
 </details>
 <details>
   Detalhes.
 <Summary>
-  •Avaliação 10 
+  •Atividade 10 
   
 </Summary>
 </details>
