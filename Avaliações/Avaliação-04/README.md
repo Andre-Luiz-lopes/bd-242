@@ -12,16 +12,16 @@
 <br><br>
 5) Inserir registros na tabela TB_PROFESSOR (Cesar Olavo, Davis Macedo, Serra Furtado, Mauricio Jaborandi,Marcos Lemos, Jose Roberto, Gloria Marinho);
 <br><br>
-6) Associar os Professores com os Cursos inserindo registros na Tabela TB_CURSO_PROFESSOR.
+6) Associar os Professores com os Cursos inserindo registros na Tabela TB_CURSO_PROFESSOR.<br>
    Montar os inserts de cada Professor com o Curso usando suas chaves primárias. Na tabela
    TB_CURSO_PROFESSOR haverá os seguintes atributos(ID, CURSO_ID, PROFESSOR_ID). Usar os seguintes registros:
 
-   Cesar Olavo, Informatica;
-   Davis Macedo, Informatica;
-   Serra Furtado, Informatica;
-   Mauricio Jaborandi, Informatica;
-   Marcos Lemos,Mecanica;
-   Gloria Marinho, Quimica;
+   Cesar Olavo, Informatica;<br>
+   Davis Macedo, Informatica;<br>
+   Serra Furtado, Informatica;<br>
+   Mauricio Jaborandi, Informatica;<br>
+   Marcos Lemos,Mecanica;<br>
+   Gloria Marinho, Quimica;<br>
 <br><br>
 7) Fazer uma consulta (select) envolvendo as Tabelas TB_CURSO, TB_PROFESSOR, TB_CURSO_PROFESSOR
    onde é mostrado TB_CURSO.NOME, TB_PROFESSOR.NOME com um Select inner join
