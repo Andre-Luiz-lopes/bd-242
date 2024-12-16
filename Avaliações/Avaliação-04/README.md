@@ -1,6 +1,7 @@
 <h2 align="center">•Atividade 04👔</h2></h2>
 <br>
 <br>
+OBS: coloquei o nome do BD referente a atividade 05 porém é da atividade 04<br><br>
 1) Criar uma tabela TB_CURSO com os seguintes atributos (ID, NOME);
 <br><br>
 2) Criar na tabela TB_PROFESSOR um atributo CURSO_ID para relacionar o Professor com o Curso.
